@@ -1,7 +1,7 @@
 Fix Active Directory Accounts
 =============================
 
-While we automate as much account maintenance as possible, changes can be and often are still made by manually, and that leads to mistakes, especially when your staff is green and/or has a high turnover. This is a dead-simple script I wrote to fix the most common mistakes in my organization. It runs on a daily schedule and is anonymized with a fictional domain, efrafa.net.
+While we automate as much account maintenance as possible, changes can be and often are still made by manually, and that leads to mistakes, especially when your staff is green and/or has a high turnover. This is a dead-simple script I wrote to fix the most common mistakes in my organization. It runs on a daily schedule and is anonymized here with a fictional domain, efrafa.net.
 
 Tasks
 -----
